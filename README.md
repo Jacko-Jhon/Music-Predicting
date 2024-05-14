@@ -1,6 +1,6 @@
 ### Our Work
 
-    First of all, we randomly selected 200 samples from the **dataset** - [Spotify Dataset 1921-2020, 600k+ Tracks]([Spotify Dataset 1921-2020, 600k+ Tracks (kaggle.com)](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data)) .
+    First of all, we randomly selected 200 samples from the **dataset** - [Spotify Dataset 1921-2020, 600k+ Tracks](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks/data)) .
 
     And, what we did is to download those songs manually and analyze the Mel Spectrogram, than, tranfer them to 100-dimensional vectors. Later we used the vectors to train three models to predict the "popularity" defined in the **dataset**. However, due to the small amount of data, the regression models do not perform well. Next, we define a variable $x$ only to indicate whether the song is popular or not.
 
