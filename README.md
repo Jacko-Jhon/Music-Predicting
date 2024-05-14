@@ -8,7 +8,7 @@ $$
 x = 
 \begin{cases}
 1,\ if\ popularity\ is\ in\ top\ 25\% \\
-0,\ else
+0,\ else\\
 \end{cases}
 $$
 
